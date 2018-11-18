@@ -4,8 +4,8 @@ Simple neural network with genetic mutation algorithm that follows dot.
 
 ## How it works?
 
-![Network](/network.png)
-![Agent](/agent.png)
+![Network](network.png)
+![Agent](agent.png)
 
 ## Authors
 
